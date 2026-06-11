@@ -1,0 +1,80 @@
+# Online Banking — Generative Engine Optimization Map
+
+> Create a banking website
+
+---
+
+## Pages
+
+### Home
+https://online-banking-80982a57.zappy5.app
+Take control of your finances with secure, 24/7 digital banking. Manage accounts, transfer funds, and pay bills effortlessly. Start your smarter money journey today.
+
+### Features
+https://online-banking-80982a57.zappy5.app/features
+Explore cutting-edge features like instant transfers, mobile check deposit, and real-time alerts designed to simplify your financial life. See what&#39;s possible now.
+
+### About
+https://online-banking-80982a57.zappy5.app/about
+Discover our commitment to redefining finance through transparency, advanced security, and customer-first design. Learn why millions rely on us for their financial future.
+
+### Contact
+https://online-banking-80982a57.zappy5.app/contact
+Connect with our dedicated support team for fast, friendly help with your accounts. We&#39;re here 24/7 to answer questions and keep your finances moving forward.
+
+### Products
+https://online-banking-80982a57.zappy5.app/products
+Our Products - Online Banking
+
+### Product Detail
+https://online-banking-80982a57.zappy5.app/product/:slug
+Product Details - Online Banking
+
+### Category
+https://online-banking-80982a57.zappy5.app/category/:slug
+Products - Online Banking
+
+## Legal & Policy
+
+### Privacy Policy
+https://online-banking-80982a57.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://online-banking-80982a57.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://online-banking-80982a57.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Online Banking
+Create a banking website
+
+## Target Audience
+- Digital Natives
+- Remote Workers
+- Small Business Owners
+
+## Industry
+Banking & Finance
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://online-banking-80982a57.zappy5.app/sitemap.xml
+- Robots: https://online-banking-80982a57.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://online-banking-80982a57.zappy5.app/llms-full.txt
+- Products (JSON): https://online-banking-80982a57.zappy5.app/products.json
+- Products (Google Merchant RSS): https://online-banking-80982a57.zappy5.app/product-feed.xml
